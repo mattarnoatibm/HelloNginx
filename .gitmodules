@@ -1,0 +1,3 @@
+[submodule "HelloNginxContent"]
+	path = HelloNginxContent
+	url = git@github.com:davidhay1969/HelloNginxContent.git
